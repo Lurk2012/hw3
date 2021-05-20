@@ -3,6 +3,7 @@
 //              made by Lurk         //     
 //              gedit + gcc          //      
 /////////////////////////////////////// 
+
 #include <stdio.h>
 #include <stdlib.h>
 
